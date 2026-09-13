@@ -140,8 +140,7 @@ print(me.motto())
 
 <div align="center">
 
-📫 Reach me: **senthilsk5478@gmail.com** · [LinkedIn](https://linkedin.com/in/senthilkumar06)
-
+📫 📫 Reach me: **senthilsk5478@gmail.com** · [LinkedIn](https://linkedin.com/in/senthilkumar06) · [Portfolio](https://senthilportfolio.netlify.app)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
