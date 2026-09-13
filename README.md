@@ -3,11 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Senthil%20Kumar%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AML%20%26%20Compliance%20Analyst%20%7C%20Aspiring%20Data%20%26%20Business%20Analyst&descAlignY=62&descSize=16" />
 
 <a href="https://linkedin.com/in/senthilkumar06">
-font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=MBA+Candidate+%E2%80%93+Business+Analytics+%26+Finance;AML+%2F+KYC+Analyst+%40+TCS+(Morgan+Stanley+account);Learning+SQL+%2C+Power+BI+%2C+Python;Turning+Financial+Crime+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=MBA+Candidate+%E2%80%93+Business+Analytics+%26+Finance;AML+%2F+KYC+Analyst+%40+TCS+(Morgan+Stanley+account);Learning+SQL+%2C+Power+BI+%2C+Python;Turning+Financial+Crime+Data+Into+Insights" alt="Typing SVG" />
 </a>
 
 </div>
 
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ## About Me
 
@@ -16,7 +17,6 @@ class SenthilKumarM:
     def __init__(self):
         self.name = "Senthil Kumar M"
         self.location = "Chennai, Tamil Nadu, India"
-        self.portfolio = "[https://senthilportfolio.netlify.app/](https://senthilportfolio.netlify.app/)"
         self.degree = "MBA - Business Analytics & Finance (Pursuing)"
         self.background = "AML & KYC Analyst, Financial Crime Operations (TCS)"
         self.stack = ["SQL", "Python", "Power BI", "Advanced Excel"]
@@ -27,9 +27,6 @@ class SenthilKumarM:
     def motto(self):
         return "Compliance taught me to find the signal in the noise. Analytics is how I use it."
 
-
-me = SenthilKumarM()
-print(me.motto())
 
 me = SenthilKumarM()
 print(me.motto())
