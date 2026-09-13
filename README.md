@@ -17,6 +17,7 @@ class SenthilKumarM:
     def __init__(self):
         self.name = "Senthil Kumar M"
         self.location = "Chennai, Tamil Nadu, India"
+        self.portfolio = "[https://senthilportfolio.netlify.app/](https://senthilportfolio.netlify.app/)"
         self.degree = "MBA - Business Analytics & Finance (Pursuing)"
         self.background = "AML & KYC Analyst, Financial Crime Operations (TCS)"
         self.stack = ["SQL", "Python", "Power BI", "Advanced Excel"]
@@ -27,6 +28,9 @@ class SenthilKumarM:
     def motto(self):
         return "Compliance taught me to find the signal in the noise. Analytics is how I use it."
 
+
+me = SenthilKumarM()
+print(me.motto())
 
 me = SenthilKumarM()
 print(me.motto())
